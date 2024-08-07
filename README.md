@@ -4,6 +4,11 @@
 
 This project aims to create an impressive landing page using modern web development tools. Using state-of-the-art tools such as **React**, **Next.js**, **TailwindCSS**, and **Framer Motion**, I designed a web page that is both aesthetically pleasing and high performance.
 
+
+## Figma Design
+
+[🔗 Link is here](https://www.figma.com/design/ws5FjHDAtHLF5p4iJI18EM/SaaS-Website-UI-Kit-%E2%80%94-Framer-Website-Kit-(Community)?node-id=0-1&t=w1CXahTuLhz1aKno-1)
+
 ## 🛠 Technologies Used
 
 - **React**: A popular JavaScript library used to create user interfaces.
@@ -35,7 +40,7 @@ You can follow the steps below to run the project on your own computer:
    Go to the project directory and install the dependencies:
 
    ```bash
-   cd project-name
+   cd saasglow
    npm install
    ```
 

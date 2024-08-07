@@ -1,3 +1,7 @@
-export const CallToAction = () => {
-  return null;
-};
+const CallToAction = () => {
+  return (
+    <div>CallToAction</div>
+  )
+}
+
+export default CallToAction

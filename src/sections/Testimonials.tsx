@@ -65,6 +65,8 @@ const testimonials = [
   },
 ];
 
-export const Testimonials = () => {
-  return null;
+const Testimonials = () => {
+  return <div>Testimonials</div>;
 };
+
+export default Testimonials;

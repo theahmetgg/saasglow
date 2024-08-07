@@ -50,6 +50,10 @@ const pricingTiers = [
   },
 ];
 
-export const Pricing = () => {
-  return null;
-};
+const Pricing = () => {
+  return (
+    <div>Pricing</div>
+  )
+}
+
+export default Pricing
