@@ -11,7 +11,12 @@
     .btn-primary {
         @apply bg-black text-white
     }
-    .btn-text{
+
+    .btn-text {
         @apply text-black bg-transparent
     }
+}
+
+.logo-ticker-image {
+    @apply h-8 w-auto
 }
