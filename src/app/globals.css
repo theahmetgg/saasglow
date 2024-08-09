@@ -38,5 +38,5 @@
 }
 
 .card {
-    @apply p-10 border border-[#222222]/10 rounded-3xl shadow-md max-w-xs w-full
+    @apply p-10 border border-[#222222]/10 rounded-3xl shadow-md max-w-xs w-full pb-10
 }
